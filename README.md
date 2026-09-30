@@ -1,4 +1,4 @@
-# CIO-case-study
+# ICT Academy CIO Case Study
 
 **Atdhe Buja | Chief Information Officer | January 2022–July 2024 | Kosovo**
 
@@ -36,10 +36,19 @@ ICT Academy CERT is **TI-listed**. This case study does not claim TI accreditati
 
 ## Read the case study
 
-- [Operating model and business processes](docs/operating-model.md)
-- [Security governance and resilience](docs/security-governance.md)
-- [Leadership, partnerships, and delivery](docs/leadership-and-delivery.md)
-- [Timeline and public references](docs/timeline-and-sources.md)
+- [Operating model and business processes](operating-model.md)
+- [Security governance and resilience](security-governance.md)
+- [Leadership, partnerships, and delivery](leadership-and-delivery.md)
+- [Timeline and public references](timeline-and-sources.md)
+
+## Selected work samples
+
+- [Research-to-consulting process and modeling notes](docs/research-to-consulting-process.md)
+- [Research register structure](docs/research-register-structure.md)
+- [Illustrative risk and remediation example](docs/risk-remediation-example.md)
+- [CIO leadership reflection](docs/leadership-reflection.md)
+
+The risk example is illustrative and does not document a completed historical remediation. Confidential operational records are not included.
 
 ## Scope and evidence
 
@@ -55,4 +64,4 @@ This is a retrospective professional account. Public sources confirm the institu
 
 [Dr. Atdhe Buja](https://www.atdheb.com) · [GitHub](https://github.com/atdhebuja)
 
-This is a personal portfolio, not an official organizational publication or endorsement. See [reuse notice](NOTICE.md).
+This is a personal portfolio, not an official organizational publication or endorsement.
