@@ -2,7 +2,7 @@
 
 **Process ID:** ICTA-RC-BP001  
 **Original process designer:** Atdhe Buja  
-**Source:** ICTA-RC-BP001_ICTA.pptx, dated February 2024  
+**Source:** ICTA-RC-BP001_ICTA, dated February 2024  
 
 ![Research-to-consulting BPMN diagram](../assets/processes/research-to-consulting-2.png)
 
