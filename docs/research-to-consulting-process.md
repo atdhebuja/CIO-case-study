@@ -6,8 +6,6 @@
 
 ![Research-to-consulting BPMN diagram](../assets/processes/research-to-consulting-2.png)
 
-[Editable BPMN file](../assets/processes/research-to-consulting.bpmn) · [PNG preview](../assets/processes/research-to-consulting.png)
-
 ## Purpose and scope
 
 This model describes the design and pilot lifecycle for transitioning research outcomes toward consulting services. The source identifies five phases: initiation and commitment; analysis and design; implementation and training; monitoring and improvement; documentation and standardization. It does not specify a complete client sales or service-delivery process.
