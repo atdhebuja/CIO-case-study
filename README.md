@@ -7,6 +7,7 @@ I led technology and cybersecurity initiatives at ICT Academy, a four-person org
 ## My mandate
 
 I reported monthly to the owner and general manager. My responsibilities included technology priorities, security policies and risk reviews, cloud and cybersecurity engineering oversight, client requirements, service contracts, vendor deliverables, and reporting on IT and security expenditure. The four-person company included me; the six-person research project team described below was a separate project scope.
+[Read the full CIO case study on my website](https://www.atdheb.com/ict-academy-cio-case-study/)
 
 ## Selected contributions
 
