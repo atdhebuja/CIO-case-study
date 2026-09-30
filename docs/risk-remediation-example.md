@@ -2,7 +2,7 @@
 
 **Author:** Dr. Atdhe Buja  
 **Context:** CIO, ICT Academy, January 2022–July 2024  
-**Artifact type:** Illustrative portfolio example, prepared September 2026
+**Artifact type:** Illustrative portfolio example
 
 This example combines my retrospective account of backup and risk-management responsibilities with a proposed remediation workflow. It is not an extract from the internal risk register, a record of an actual incident, or evidence of a completed recovery test.
 
