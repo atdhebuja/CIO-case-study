@@ -27,8 +27,4 @@ The end event means that the transition process has been documented after review
 
 BPMN is the modeling notation. Business Process Analysis (BPA) examines processes and opportunities for improvement; it does not itself mean automation. ISO 9001 is a reference for quality-management principles, not evidence of certification. The deck's statement that BPA focuses on automating tasks should be corrected accordingly.
 
-## Historical context
-
-A separately supplied register screenshot has 2025 review dates and labels this process Under Design. It therefore cannot independently establish implementation during the January 2022–July 2024 CIO tenure. Any later register or reconstructed diagram should retain its actual date and context.
-
 [Read the CIO article](https://www.atdheb.com/ict-academy-cio-case-study/)
